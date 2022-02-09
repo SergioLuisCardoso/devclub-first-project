@@ -10,7 +10,7 @@
 
 ### 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para a realização deste projeto:
+We thank the following people who contributed to the realization of this project:
 
 <table>
   <tr>
