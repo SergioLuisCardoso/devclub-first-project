@@ -1,9 +1,9 @@
 ## Dev Club - First Project
 
-> This first project was created with just HTML and CSS.
+> This first project was created with just HTML.
 
 
-<img src="./Desafio-CSS_01_02_02.jpg" alt="screen-of-challenge">
+<img src="./challenge-one.png" alt="screen-of-challenge">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
