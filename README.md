@@ -1,12 +1,12 @@
 ## Dev Club - First Project
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
+> This first project was created with just HTML and CSS.
 
 
 <img src="./Desafio-CSS_01_02_02.jpg" alt="screen-of-challenge">
 
-> This first project was created with just HTML and CSS.
+![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
 
 ### 🤝 Colaboradores
 
