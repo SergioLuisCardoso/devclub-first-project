@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
 
-### 🤝 Colaboradores
+### 🤝 Contributors
 
 We thank the following people who contributed to the realization of this project:
 
@@ -32,5 +32,9 @@ We thank the following people who contributed to the realization of this project
     </td>
       </tr>
 </table>
+
+<br><br>
+
+<p align="center">Copyright © 2021 | Sergio Luis Cardoso</p>
 
 
